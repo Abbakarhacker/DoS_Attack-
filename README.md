@@ -19,7 +19,7 @@ cd DoS_Attack-
 
 ls
 
-python3 eo-DoS_Attack.py 
+python3 EO-DoS_Attack.py 
 
 YOUTUBE CHANNEL 
 
